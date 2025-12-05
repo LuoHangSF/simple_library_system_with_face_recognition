@@ -26,7 +26,7 @@ UI库用的是Pyside6，数据库用的是MySQL 9.0
 
 #### 5. 配置dlib包的前置环境
 
-为了保证`dlib`包能够正常安装，需要提前在windows上配置cmake和boost，具体详见[这里]([https://blog.csdn.net/qq_35044509/article/details/78882316?ops_request_misc=elastic_search_misc&request_id=dd02ce228ee6fb53c9af116b42f2f205&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-78882316-null-null.142^v102^pc_search_result_base9&utm_term=dlib%20windows&spm=1018.2226.3001.4187](https://blog.csdn.net/qq_35044509/article/details/78882316?ops_request_misc=elastic_search_misc&request_id=dd02ce228ee6fb53c9af116b42f2f205&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-78882316-null-null.142^v102^pc_search_result_base9&utm_term=dlib windows&spm=1018.2226.3001.4187))
+为了保证`dlib`包能够正常安装，需要提前在windows上配置cmake和boost，具体详见[这里](https://blog.csdn.net/weixin_47406082/article/details/131867849?ops_request_misc=elastic_search_misc&request_id=07270aba3dd70d5c957d1c89d6a97f3b&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-131867849-null-null.142^v102^pc_search_result_base9&utm_term=mysql%E5%AE%89%E8%A3%85&spm=1018.2226.3001.4187)
 
 #### 6. 配置Python虚拟环境
 
